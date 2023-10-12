@@ -1,0 +1,27 @@
+{
+  "name": "mern-folders",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/mern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "configstore": "^3.1.5",
+    "inquirer": "^8.0.0",
+    "stylesh": "^0.0.6"
+  },
+  "keywords": [
+    "mern",
+    "cli",
+    "react",
+    "nodeJs",
+    "express",
+    "mongooDb",
+    "mongoose"
+  ],
+  "author": "omar alghaish",
+  "license": "MIT"
+}
